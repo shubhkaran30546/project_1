@@ -1,0 +1,47 @@
+html {
+  background-image: url(https://i.pinimg.com/originals/5a/36/cd/5a36cd1a1bee0cc6f63c5679b2426fe2.jpg);
+  
+}
+h1, p {
+  text-align: center;
+}
+form {
+  margin: 0 auto;
+}
+fieldset {
+  border: none;
+  padding: 2rem 0;
+}
+label {
+  display: block;
+  padding-top: 10px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  padding-left: 20%;
+  font-size: 20px;
+}
+input, select {
+  margin: 10px 0 0 0;
+  display: inline;
+  width: 80%;
+  min-height: 1em;
+  font-size: 20px;
+}
+input, select {
+  display: block;
+  text-align: left;
+}
+.inline {
+  display: inline;
+  width: 10px;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+.form {
+  width: 80%;
+  background-color: #088F8F;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
